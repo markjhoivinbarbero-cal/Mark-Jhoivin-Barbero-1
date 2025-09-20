@@ -3,14 +3,12 @@
 
 <img src="https://raw.githubusercontent.com/jhoivin769-collab/Mark-Jhoivin-Barbero/refs/heads/main/profile.jpeg" alt="Profile Pic" width="150" style="border-radius: 50%;"/>
 
----
 
 ## 🕹️ About Me
-Hi there! I’m **Mark Jhoivin Barbero**, but you can call me **“Makoy”**.  
-Currently exploring and learning new things about **IT, operating systems, and technology**.  
-Always aiming to **level up my skills** while enjoying my time as a gamer in **Roblox**, **Call of Duty**, and **Valorant**.  
+ Hi! I’m Mark Jhoivin Barbero, but most people know me as “Makoy.”
+I’m passionate about exploring the world of IT, operating systems, and technology, always curious to learn something new.
+Just like in gaming, I’m on a constant journey to level up my skills—whether it’s in Roblox, Call of Duty, or Valorant.
 
----
 
 🕹️ Games I Play
 
@@ -22,7 +20,6 @@ Always aiming to **level up my skills** while enjoying my time as a gamer in **R
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Valorant_logo.svg" alt="Valorant" width="100"/>  
 </a>
 
----
 
 ## 📬 You Can Reach Me At
 <p align="left">
